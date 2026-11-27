@@ -7,6 +7,6 @@ _my name is raj singh_
 * I am a first-year Integrated MCA student at IIPS DAVV.
 * 🌱 Currently learning C Programming.
 * 💻 Interested in Web Development and Software Engineering.
-* 🚀 Working on improving my programming and problem-solving skills.
-* 🎯 My goal is to become a skilled Software Developer
-**THANK YOU**
+
+![My Image](<img width="439" height="209" alt="signature" src="https://github.com/user-attachments/assets/1bbbafb9-2225-41c2-8b2b-d8343a785e7d" />
+)
